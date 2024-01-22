@@ -33,5 +33,6 @@ Display each key-value pair from the metadata JSON object somewhere on the page.
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
 ![Screenshot 2024-01-21 at 7 51 41 PM](https://github.com/guoya35/belly-button-challenge/assets/141586099/d497e8e2-9fec-4ec6-9a34-b026b198eff0)
+ChatGPT and candidamg's github helped me
 
 
